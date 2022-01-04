@@ -139,6 +139,7 @@ nav ul li a {
 .content-wrapper [class^="section"] h3 {
   font-size: 32px;
   padding-bottom: 50px;
+  font-family: 'AvenirNext-Bold', sans-serif;
 }
 
 .content-wrapper [class^="section"] p {
